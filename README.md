@@ -14,6 +14,9 @@
 ---
 ### ⚙️ My Projects
 <br />
-<img alt="DS - Banner" width="600px" src="https://i.imgur.com/DZJ0eOH.png"/>
+
+[![WEL - Banner](https://i.imgur.com/DZJ0eOH.png)](https://your-link-url-here.com)
+
 <br />
-<img alt="WEL - Banner" width="580px" src="https://raw.githubusercontent.com/CroissantDuNord/CroissantDuNord/main/wel_banner.png"/>
+
+[![WEL - Banner](https://raw.githubusercontent.com/CroissantDuNord/CroissantDuNord/main/wel_banner.png))](https://your-link-url-here.com)
