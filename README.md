@@ -1,6 +1,9 @@
+[**🇫🇷 Version française / French Version**](/README_FR.md)
+
 ## Hi there, I'm [CroissantDuNord](https://github.com/CroissantDuNord) (Nathan G) 👋
 <img src="https://github.com/CroissantDuNord/CroissantDuNord/blob/main/ff7_profilebanner.png?raw=true" width="350">
 <br>
+
 
 # 📦 My Tools
 
