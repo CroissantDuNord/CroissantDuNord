@@ -21,7 +21,7 @@
 <br>
 
 ### [Discord AdBlock](https://github.com/CroissantDuNord/discord-adblock)
-Modification CSS pour masquer l'up selling pour la version payante de Discord *(Nitro)*
+Modification CSS pour masquer l'up selling (ou pub) pour la version payante de Discord *(Nitro)*
 
 ### [Wallper Engine to Lively](https://github.com/CroissantDuNord/discord-adblock)
 Convertissez vos fond d'écran animé de Wallpaper Engine (payant, closed source) en Lively (gratuit, open source)
