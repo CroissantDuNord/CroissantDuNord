@@ -25,7 +25,7 @@
 ### [Discord AdBlock](https://github.com/CroissantDuNord/discord-adblock)
 Hide the up-selling for paid version of discord *(Nitro)*
 
-### [Wallper Engine to Lively](https://github.com/CroissantDuNord/discord-adblock)
+### [Wallper Engine to Lively](https://github.com/CroissantDuNord/we-to-lively)
 Convert your animated wallaper from Wallper Engine (Paid, Closed Source), to Lively (Free, Opensource)
 With a modern GUI
 
