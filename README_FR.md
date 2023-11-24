@@ -4,21 +4,10 @@
 
 # 📦 Mes outils
 
-<br>
-
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Powershell" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png"/>
-<img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&q=75&fit=max&auto=format&dpr=2"/>
-<img align="left" alt="Visual Stuido Code" width="40px" style="padding-right:10px;" src="https://code.visualstudio.com/assets/images/code-stable.png"/>
-<img align="left" alt="Neovim" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
-<img align="left" alt="Lua" width="45px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"/>
-<br>
+<img src="https://skillicons.dev/icons?i=html,css,py,lua,neovim,bots,bash,linux,figma,qt,vscode,blender&perline=7">
 <br>
 
 # ⚙️ Mes projets
-<br>
 
 ### [Discord AdBlock](https://github.com/CroissantDuNord/discord-adblock)
 Modification CSS pour masquer l'up selling (ou pub) pour la version payante de Discord *(Nitro)*
